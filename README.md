@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="main.css">
+
+    <title>Nurielle Auguste Portfolio Page</title>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+
+        <header class="col bg-secondary text-white p-2 mb-4">
+          <h3>This Is a Header. Rename it.</h3>
+        </header>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-7">
+
+          <h1>Meet Nurielle Auguste</h1>
+
+          <h2>How she grew her love for communications.</h2>
+
+          <p><strong>Broadcast and Digital Journalism 2025</strong></p>
+
+          <p><em>Broadcast and Digital Journalism 2025</em></p>
+
+          <h3>Campus Activities</h3>
+              <ul>
+                 <li><a href="https://cuse.com/news/2023/9/18/-cuse-tennis-announces-fall-schedule">SUAC</a></li>
+                 <li><a href="https://www.instagram.com/newhousesportssu/?hl=en">ACC Network</a></li>
+                 <li>HASA</li>
+                 </ol>
+
+                 <img src="https://newhouse.syracuse.edu/wp-content/uploads/2023/10/Screenshot-2023-10-26-at-3.17.20-PM-1-600x424.png"<>
+                  >
+
+          <h3>Three Favorites Foods</h3>
+                <ol>
+                <li>Mac and Cheese</li>
+                <li>Rice and Beans</li>
+                <li>Meat</li>
+
+                  <ol>
+
+        
+        </div>
+
+      </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+# nuri
