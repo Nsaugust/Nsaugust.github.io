@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  
+}
+
+.site-banner {
+  background-color: skyblue;
+  padding-top: 40px;
+  padding-bottom: .5px;
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.site-banner img {
+  max-width: 100%; /
+  height: auto; / 
+}
+.article {
+  max-width: 1200px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom:0px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.story_image {
+  width: 150%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
